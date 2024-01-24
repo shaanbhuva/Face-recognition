@@ -46,7 +46,7 @@ cap = cv2.VideoCapture(0)
 last_detection_time = {}
 
 
-min_detection_interval = 0 
+min_detection_interval = 3600 
 
 while True:
     success, webcam_image = cap.read()
