@@ -1,0 +1,3 @@
+Smart Attendance System
+
+Recognising Faces Included in this repository is a Python project called Smart Attedance system. To begin, we'll need to create a database named Name Training images to keep track of all the students' photos. I intend to randomly photograph people and add them to this database. Afterwards, I own the Python code that, when run, will scan the face of the person now facing the camera. After that, it will check whether the face matches the photos in the database; if they do, it will generate the Attendance.csv file with all of the relevant attendance details.
